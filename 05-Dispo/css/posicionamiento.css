@@ -4,8 +4,13 @@ div {
     margin: 5px ;
 }
 
+/* Se posiciona en relación a la posición incial */
 .Relative {
     position: relative;
     left: 80px;
     margin-left: 10px;
+}
+
+.fixed {
+    
 }
